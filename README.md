@@ -180,7 +180,55 @@ Acceptance Criteria
 
 ## R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
-PlaceHolder
+<details><summary> Login and Signup Page</summary>
+
+![login](docs\Wireframes\Login_and_Signin_Pages.png)
+
+</details><br />
+
+<details><summary> Lading Page</summary>
+
+![lading](docs\Wireframes\Landing_Page.png)
+
+</details><br />
+
+<details><summary> Listing Page</summary>
+
+![listings](docs\Wireframes\Listing_Page(All_Tickets).png)
+
+</details><br />
+
+<details><summary> My Tickets Page</summary>
+
+![My Ticket](docs\Wireframes\My_tickets.png)
+
+</details><br />
+
+<details><summary> Single Ticket Page</summary>
+
+![Single Ticket](docs\Wireframes\Ticket_Details.png)
+
+</details><br />
+
+<details><summary> New Tickets Page</summary>
+
+![New Ticket](docs\Wireframes\New_ticket.png)
+
+</details><br />
+
+<details><summary> Search Page</summary>
+
+![Serch](docs\Wireframes\Search_results.png)
+
+</details><br />
+
+<details><summary> Submission Success Page</summary>
+
+![Submission](docs\Wireframes\Submission_success_page.png)
+
+</details><br />
+
+
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
 
