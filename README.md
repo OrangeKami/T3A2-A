@@ -76,7 +76,7 @@ User Story 1
 
   Acceptance Criteria
   
-  - "We have to formally fill in a online form if we want to share our project ideas to the team." - Yel
+  - "We have to formally fill in an online form if we want to share our project ideas to the team." - Yel
 
 User Story 2
 
@@ -84,7 +84,7 @@ User Story 2
 
   Acceptance Criteria
 
-  - "A good innovatitive idea doesn't appear in once and need a lot of delibrate thinking. It's important for me to be able to add, edit, and delete ideas. Just in case, I want to change something later on before I press the submit button." - Amela
+  - "A good innovative idea doesn't appear in once and need a lot of deliberate thinking. It's important for me to be able to add, edit, and delete ideas. Just in case, I want to change something later on before I press the submit button." - Amela
 
 User Story 3 
 
@@ -122,11 +122,11 @@ User Story 6
 
 User Story 7
 
-  - As Francois, Head of Growth Growth Marketing B2B, I want to have a tool to calculate ICE scores automatically, so I can use these scores for my decision-making process.
+  - As Francois, Head of Growth Marketing B2B, I want to have a tool to calculate ICE scores automatically, so I can use these scores for my decision-making process.
 
   Acceptance Criteria
 
-  - "At the moment, we mannually calculate ICE scores to help my process of decision-making on prioritization. It'll be good to make the calculation automatically." - Francois
+  - "At the moment, we manually calculate ICE scores to help my process of decision-making on prioritization. It'll be good to make the calculation automatically." - Francois
 
 User Story 8
 
@@ -134,11 +134,11 @@ User Story 8
 
    Acceptance Criteria
 
-   - "As manager, we not only considered ICE sores when we prioritised our projects but also other impacts, such as, senior managers' strategies, financial budget, and so on. Thus, I'd like to put all criterias into my consideration for my decision-making and be able to change ICE scores and update categories of impact, confidence, and effort." - Jessie
+   - "As manager, we not only considered ICE sores when we prioritised our projects but also other impacts, such as, senior managers' strategies, financial budget, and so on. Thus, I'd like to put all criteria into my consideration for my decision-making and be able to change ICE scores and update categories of impact, confidence, and effort." - Jessie
 
 User Story 9
 
-  - As Lochy, Engineer Lead, I woud like to send my feedback to my team for each of their idea, so they can improve their initial ideas to meet organization expectation.
+  - As Lochy, Engineer Lead, I would like to send my feedback to my team for each of their idea, so they can improve their initial ideas to meet organization expectation.
 
    Acceptance Criteria
 
