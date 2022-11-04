@@ -86,8 +86,6 @@
 
 ## R4. User Stories
 
-- **_Users as Employees_**
-
 <table> 
   <tr>
     <th style="text-align:center">Theme</th>
