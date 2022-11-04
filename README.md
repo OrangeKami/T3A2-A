@@ -77,7 +77,7 @@ PlaceHolder
 | 3 |As Harsh, Software Engineer, I want to be able to view and respond to my manager’s feedback, so I can solve my problems as soon as possible. | "When I check my submitted ideas, I want to see my manager's feedback. I can quickly fix the problems and move on to the next." - Harsh |
 | 4 | As Joyce, Digital Designer, I want to be able to search the projects with feedback only on a list of all the ideas, so I can get some feelings of what managers' expectations look like for an innovative project. | "It's convenient for me to be able to search any submitted projects with managers' feedback because I want to get feels of what managers expected from an innovation project." - Joyce |
 | 5 |As Sunil, Software Engineer, I would like to view other people's ideas, so I won't create a similar project. | "I don't want to post my idea if I saw that someone has already created a similar project as mine." - Sunil |
-| 6 |As Sarah, Digital Designer, I want to be able to view my project history, so I don't need to remember each project detail that I created. | ??? |
+| 6 |As Sarah, Digital Designer, I want to be able to view my project history, so I don't need to remember each project detail that I created. | "I'm a busy person and can't always remember what I did for my projects after several days later. I'd love to be able to review all the projects that I created before." - Sarah |
 
 - **_Users as Managers_**
 
