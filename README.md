@@ -162,9 +162,9 @@ User Story 11
 PlaceHolder
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
-![TrelloWeek1](./T3A2-A/docs/ScreenshotsTrello/Trelloweek1.png)
+![TrelloWeek1](docs/ScreenshotsTrello/Trelloweek1.png)
 
-![TrelloWeek2](./T3A2-A/docs/ScreenshotsTrello/Trelloweek2.png)
+![TrelloWeek2](docs/ScreenshotsTrello/Trelloweek2.png)
 
 Our Trello website
 
