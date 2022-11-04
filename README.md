@@ -62,27 +62,27 @@
 
 <details><summary> DFD Levle 0</summary>
 
-![level0](docs\DataFlowDiagram\DFDLevel0.png)
+![level0](docs/DataFlowDiagram/DFDLevel0.png)
 
 </details><br />
 
 <details><summary>DFD Levle 1</summary>
 
-![level1](docs\DataFlowDiagram\DFDLevel1.png)
+![level1](docs/DataFlowDiagram/DFDLevel1.png)
 
 </details><br />
 
 <details><summary>DFD Levle 2</summary>
 
-![level2](<docs\DataFlowDiagram\DFDLevel2(1).png>)
+![level2](docs/DataFlowDiagram/DFDLevel2_1.png)
 
-![level2](<docs\DataFlowDiagram\DFDLevel2(2).png>)
+![level2](docs/DataFlowDiagram/DFDlevel2_2.png)
 
 </details>
 
 ## R3 Application Architecture Diagram
 
-![Application_Architecture_Diagram](docs\ApplicationArchitectureDiagram\ApplicationArchitectureDiagram.png)
+![Application_Architecture_Diagram](docs/ApplicationArchitectureDiagram/ApplicationArchitectureDiagram.png)
 
 ## R4. User Stories
 
@@ -182,53 +182,57 @@ Acceptance Criteria
 
 <details><summary> Login and Signup Page</summary>
 
-![login](docs\Wireframes\Login_and_Signin_Pages.png)
+![login](docs/Wireframes/Login_and_Signup_Pages.png)
 
 </details><br />
 
-<details><summary> Lading Page</summary>
+<details><summary> Landing Page</summary>
 
-![lading](docs\Wireframes\Landing_Page.png)
+![landing](docs/Wireframes/Landing_Page.png)
 
 </details><br />
 
 <details><summary> Listing Page</summary>
 
-![listings](docs\Wireframes\Listing_Page(All_Tickets).png)
+![listings](docs/Wireframes/Listing_Page.png)
 
 </details><br />
 
 <details><summary> My Tickets Page</summary>
 
-![My Ticket](docs\Wireframes\My_tickets.png)
+![My Ticket](docs/Wireframes/My_tickets.png)
 
 </details><br />
 
-<details><summary> Single Ticket Page</summary>
+<details><summary> Ticket Details Page</summary>
 
-![Single Ticket](docs\Wireframes\Ticket_Details.png)
-
-</details><br />
-
-<details><summary> New Tickets Page</summary>
-
-![New Ticket](docs\Wireframes\New_ticket.png)
+![Single Ticket](docs/Wireframes/Ticket_Details.png)
 
 </details><br />
 
-<details><summary> Search Page</summary>
+<details><summary> New Ticket Page</summary>
 
-![Serch](docs\Wireframes\Search_results.png)
+![New Ticket](docs/Wireframes/New_ticket.png)
+
+</details><br />
+
+<details><summary> Search Result Page</summary>
+
+![Serch](docs/Wireframes/Search_results.png)
 
 </details><br />
 
 <details><summary> Submission Success Page</summary>
 
-![Submission](docs\Wireframes\Submission_success_page.png)
+![Submission](docs/Wireframes/Submission_success_page.png)
 
 </details><br />
 
+<details><summary> Edit Ticket Page</summary>
 
+![landing](docs/Wireframes/Edit_Tickets.png)
+
+</details><br />
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
 
