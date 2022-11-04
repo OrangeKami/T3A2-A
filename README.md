@@ -14,13 +14,13 @@
 
   - The TSM team constantly gets a lot of requests from other teams globally across Canva to create, update or localise (translate to different languages) landing or existing pages. Every season (3 months period) they have to build a roadmap of all the things that they want to work on which is a complicated process as they always have more work than the team can handle and it’s not always clear what is the most important for Canva. The consequence of this unclear path is that their process of prioritisation of projects can be very chaotic. The team has to figure out how to use their limited time to work on the most important projects that will make a big impact for the company. At the same time, they also have to demonstrate their roadmap to leadership to make sure it’s aligned with the overall strategy of the company.
 
-  - Our project management application will help the TSM team to collect ideas from various people at Canva and add relevant context/additional information to each idea. The application will also automatically calculate the ICE score that is required by the managers for their decision-making process. It allows managers to provide feedback for each idea so people can review their ideas. This application will let users free from those manual spreadsheets and improve their productivity.
+  - Our project management application will help the TSM team to collect ideas from various people at Canva and add relevant context/additional information to each idea. The application will also automatically calculate the ICE score that is required by the managers for their decision-making process. It allows managers to provide feedback for each idea so people can review their ideas. This application will let users be free from those manual spreadsheets and improve their productivity.
 
 - **_Functionality / features_**
 
   - Our application will have the following functionality / features:
 
-  - Enable users (both employees and managers) to register to the application (authentication)
+  - Enable users (both employees and managers) to register the application (authentication)
 
   - Allow users to submit their ideas
 
@@ -34,7 +34,7 @@
 
   - Allow managers (only) to add, edit, and delete their feedback before submission
 
-  - Allow managers (only) to edit other users' ICE score (impact, confidence, and effort)
+  - Allow managers (only) to edit other users' ICE scores (impact, confidence, and effort)
 
   - Enable users to search for projects
 
@@ -46,9 +46,9 @@
 
   MERN full stack app:
 
-  - Front-end: React interacts with users
+  - Front-end: React interacts with users, JavaScript, HTML
 
-  - Back-end: Express handles routes and HTTP requests and responses
+  - Back-end: Express for web frame work, Node.JS for web server, Mongoose for a connection between MongoDB and the Node.js JavaScript runtime environment
 
   - Database: MongoDB processes and stores database
 
