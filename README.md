@@ -114,6 +114,10 @@ User Story 6
 
   - As Sarah, Digital Designer, I want to be able to view my project history, so I don't need to remember each project detail that I created.
 
+  Acceptance Criteria
+
+  - "I'm a busy person and can't always remember what I did for my projects after several days later. I'd love to be able to review all the projects that I created before." - Sarah
+
 - **_Users as Managers_**
 
 User Story 7
