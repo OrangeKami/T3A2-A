@@ -10,33 +10,33 @@
 
 - **_Purpose_**
 
-- The purpose of this project management application is to collect and track ideas from users and prioritise their projects to improve team productivity. The Teams and Subscriptions Marketing (TSM) team is responsible for building marketing landing pages for Business to Business (B2B) at Canva. The current problem that they face is their manual process for project prioritisation. 
+  - The purpose of this project management application is to collect and track ideas from users and prioritise their projects to improve team productivity. The Teams and Subscriptions Marketing (TSM) team is responsible for building marketing landing pages for Business to Business (B2B) at Canva. The current problem that they face is their manual process for project prioritisation.
 
-- The TSM team constantly gets a lot of requests from other teams globally across Canva to create, update or localise (translate to different languages) landing or existing pages. Every season (3 months period) they have to build a roadmap of all the things that they want to work on which is a complicated process as they always have more work than the team can handle and it’s not always clear what is the most important for Canva. The consequence of this unclear path is that their process of prioritisation of projects can be very chaotic. The team has to figure out how to use their limited time to work on the most important projects that will make a big impact for the company. At the same time, they also have to demonstrate their roadmap to leadership to make sure it’s aligned with the overall strategy of the company. 
+  - The TSM team constantly gets a lot of requests from other teams globally across Canva to create, update or localise (translate to different languages) landing or existing pages. Every season (3 months period) they have to build a roadmap of all the things that they want to work on which is a complicated process as they always have more work than the team can handle and it’s not always clear what is the most important for Canva. The consequence of this unclear path is that their process of prioritisation of projects can be very chaotic. The team has to figure out how to use their limited time to work on the most important projects that will make a big impact for the company. At the same time, they also have to demonstrate their roadmap to leadership to make sure it’s aligned with the overall strategy of the company.
 
-- Our project management application will help the TSM team to collect ideas from various people at Canva and add relevant context/additional information to each idea. The application will also automatically calculate the ICE score that is required by the managers for their decision-making process. It allows managers to provide feedback for each idea so people can review their ideas. This application will let users free from those manual spreadsheets and improve their productivity. 
+  - Our project management application will help the TSM team to collect ideas from various people at Canva and add relevant context/additional information to each idea. The application will also automatically calculate the ICE score that is required by the managers for their decision-making process. It allows managers to provide feedback for each idea so people can review their ideas. This application will let users free from those manual spreadsheets and improve their productivity.
 
 - **_Functionality / features_**
 
-- Our application will have the following functionality / features:
+  - Our application will have the following functionality / features:
 
-- Enable users (both employees and managers) to register to the application (authentication)
+  - Enable users (both employees and managers) to register to the application (authentication)
 
-- Allow users to submit their ideas 
+  - Allow users to submit their ideas
 
-- Allow users to add, edit, and delete their ideas before submission (authorisation)
+  - Allow users to add, edit, and delete their ideas before submission (authorisation)
 
-- Automate calculate ICE score 
+  - Automate calculate ICE score
 
-- Enable users to view their own project history (including both submitted and un-submitted projects), all the submitted projects and managers’ feedback
+  - Enable users to view their own project history (including both submitted and un-submitted projects), all the submitted projects and managers’ feedback
 
-- Enable managers (only) to view their feedback history (including both submitted and un-submitted feedback)
+  - Enable managers (only) to view their feedback history (including both submitted and un-submitted feedback)
 
-- Allow managers (only) to add, edit, and delete their feedback before submission
+  - Allow managers (only) to add, edit, and delete their feedback before submission
 
-- Allow managers (only) to edit other users' ICE score (impact, confidence, and effort)
+  - Allow managers (only) to edit other users' ICE score (impact, confidence, and effort)
 
-- Enable users to search for projects 
+  - Enable users to search for projects
 
 - **_Target audience_**
 
@@ -68,7 +68,7 @@ PlaceHolder
 
 ## R4. User Stories
 
-- **_Users as Employees _**
+- **_Users as Employees_**
 
 User Story 1
 
@@ -114,11 +114,7 @@ User Story 6
 
   - As Sarah, Digital Designer, I want to be able to view my project history, so I don't need to remember each project detail that I created.
 
- Acceptance Criteria
-
- - "I'm a busy person and don't remember what I did for my project after several days. It'll be great to be able to review all my ideas that I created before." - Sarah
-
-- **_Users as Managers _**
+- **_Users as Managers_**
 
 User Story 7
 
