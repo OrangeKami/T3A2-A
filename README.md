@@ -2,7 +2,7 @@
 
 ---
 
-### By Chen Zhang && Ana(Mingyang Wang)
+### By Chen Zhang && Mingyang (Ana) Wang
 
 ---
 
@@ -231,6 +231,12 @@ Acceptance Criteria
 <details><summary> Edit Ticket Page</summary>
 
 ![landing](docs/Wireframes/Edit_Tickets.png)
+
+</details><br />
+
+<details><summary> Sitemap </summary>
+
+![login](docs/Sitemap/Sitemap.png)
 
 </details><br />
 
