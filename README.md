@@ -162,5 +162,9 @@ User Story 11
 PlaceHolder
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
+![TrelloWeek1](docs/Screenshots of Trello/Trelloweek 1.png)
+![TrelloWeek2](docs/Screenshots of Trello/Trelloweek 2.png)
+
+Our Trello website
 
 Trello: <https://trello.com/b/XXhZNZa6/project-prioritisation-application>
