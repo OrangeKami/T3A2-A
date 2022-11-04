@@ -60,11 +60,29 @@
 
 ## R2 Dataflow Diagram
 
-PlaceHolder
+<details><summary> DFD Levle 0</summary>
+
+![level0](docs\DataFlowDiagram\DFDLevel0.png)
+
+</details><br />
+
+<details><summary>DFD Levle 1</summary>
+
+![level1](docs\DataFlowDiagram\DFDLevel1.png)
+
+</details><br />
+
+<details><summary>DFD Levle 2</summary>
+
+![level2](<docs\DataFlowDiagram\DFDLevel2(1).png>)
+
+![level2](<docs\DataFlowDiagram\DFDLevel2(2).png>)
+
+</details>
 
 ## R3 Application Architecture Diagram
 
-PlaceHolder
+![Application_Architecture_Diagram](docs\ApplicationArchitectureDiagram\ApplicationArchitectureDiagram.png)
 
 ## R4. User Stories
 
@@ -72,100 +90,100 @@ PlaceHolder
 
 User Story 1
 
-  - As Yel, Software Engineer, I want to communicate my project ideas to my team, so I need to fill a form and submit it to my team/manager.
+- As Yel, Software Engineer, I want to communicate my project ideas to my team, so I need to fill a form and submit it to my team/manager.
 
-  Acceptance Criteria
-  
-  - "We have to formally fill in a online form if we want to share our project ideas to the team." - Yel
+Acceptance Criteria
+
+- "We have to formally fill in a online form if we want to share our project ideas to the team." - Yel
 
 User Story 2
 
-  - As Amela, Digital Designer, I want to be able to add, edit, and delete my ideas before I submit them, so I can feel free to make any changes in my project design later on.
+- As Amela, Digital Designer, I want to be able to add, edit, and delete my ideas before I submit them, so I can feel free to make any changes in my project design later on.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "A good innovatitive idea doesn't appear in once and need a lot of delibrate thinking. It's important for me to be able to add, edit, and delete ideas. Just in case, I want to change something later on before I press the submit button." - Amela
+- "A good innovatitive idea doesn't appear in once and need a lot of delibrate thinking. It's important for me to be able to add, edit, and delete ideas. Just in case, I want to change something later on before I press the submit button." - Amela
 
-User Story 3 
+User Story 3
 
-  - As Harsh, Software Engineer, I want to be able to view and respond to my manager’s feedback, so I can solve my problems as soon as possible.
+- As Harsh, Software Engineer, I want to be able to view and respond to my manager’s feedback, so I can solve my problems as soon as possible.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "When I check my submitted ideas, I want to see my manager's feedback. I can quickly fix the problems and move on to the next." - Harsh
+- "When I check my submitted ideas, I want to see my manager's feedback. I can quickly fix the problems and move on to the next." - Harsh
 
 User Story 4
 
-  - As Joyce, Digital Designer, I want to be able to search the projects with feedback only on a list of all the ideas, so I can get some feelings of what managers' expectations look like for an innovative project. 
+- As Joyce, Digital Designer, I want to be able to search the projects with feedback only on a list of all the ideas, so I can get some feelings of what managers' expectations look like for an innovative project.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "It's convenient for me to be able to search any submitted projects with managers' feedback because I want to get feels of what managers expected from an innovation project." - Joyce
+- "It's convenient for me to be able to search any submitted projects with managers' feedback because I want to get feels of what managers expected from an innovation project." - Joyce
 
 User Story 5
 
-  - As Sunil, Software Engineer, I would like to view other people's ideas, so I won't create a similar project.
+- As Sunil, Software Engineer, I would like to view other people's ideas, so I won't create a similar project.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "I don't want to post my idea if I saw that someone has already created a similar project as mine." - Sunil
+- "I don't want to post my idea if I saw that someone has already created a similar project as mine." - Sunil
 
 User Story 6
 
-  - As Sarah, Digital Designer, I want to be able to view my project history, so I don't need to remember each project detail that I created.
+- As Sarah, Digital Designer, I want to be able to view my project history, so I don't need to remember each project detail that I created.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "I'm a busy person and can't always remember what I did for my projects after several days later. I'd love to be able to review all the projects that I created before." - Sarah
+- "I'm a busy person and can't always remember what I did for my projects after several days later. I'd love to be able to review all the projects that I created before." - Sarah
 
 - **_Users as Managers_**
 
 User Story 7
 
-  - As Francois, Head of Growth Growth Marketing B2B, I want to have a tool to calculate ICE scores automatically, so I can use these scores for my decision-making process.
+- As Francois, Head of Growth Growth Marketing B2B, I want to have a tool to calculate ICE scores automatically, so I can use these scores for my decision-making process.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "At the moment, we mannually calculate ICE scores to help my process of decision-making on prioritization. It'll be good to make the calculation automatically." - Francois
+- "At the moment, we mannually calculate ICE scores to help my process of decision-making on prioritization. It'll be good to make the calculation automatically." - Francois
 
 User Story 8
 
-  - As Jessie, Designer Lead, I want to be able to change ICE scores of employees' projects, such as editing categories of impact, confidence, and effort, so I can make a decision on which project should go first.
+- As Jessie, Designer Lead, I want to be able to change ICE scores of employees' projects, such as editing categories of impact, confidence, and effort, so I can make a decision on which project should go first.
 
-   Acceptance Criteria
+Acceptance Criteria
 
-   - "As manager, we not only considered ICE sores when we prioritised our projects but also other impacts, such as, senior managers' strategies, financial budget, and so on. Thus, I'd like to put all criterias into my consideration for my decision-making and be able to change ICE scores and update categories of impact, confidence, and effort." - Jessie
+- "As manager, we not only considered ICE sores when we prioritised our projects but also other impacts, such as, senior managers' strategies, financial budget, and so on. Thus, I'd like to put all criterias into my consideration for my decision-making and be able to change ICE scores and update categories of impact, confidence, and effort." - Jessie
 
 User Story 9
 
-  - As Lochy, Engineer Lead, I woud like to send my feedback to my team for each of their idea, so they can improve their initial ideas to meet organization expectation.
+- As Lochy, Engineer Lead, I woud like to send my feedback to my team for each of their idea, so they can improve their initial ideas to meet organization expectation.
 
-   Acceptance Criteria
+Acceptance Criteria
 
-  - "After I received new ideas from my team, I want to give feedback to them as soon as possible, they can improve their ideas that fit into our current strategy." - Lochy
+- "After I received new ideas from my team, I want to give feedback to them as soon as possible, they can improve their ideas that fit into our current strategy." - Lochy
 
 User Story 10
 
-  - As Kate, Project Manager, I would like to add, edit, and delete my feedback before I send it to my team, so if I change my mind later, I can always come back to change my feedback. 
+- As Kate, Project Manager, I would like to add, edit, and delete my feedback before I send it to my team, so if I change my mind later, I can always come back to change my feedback.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "It's nice to be able to add, edit, and delete my feedback before I send it back to my team. Sometime, you may not always get a full picture of a certain project immediately. I may change my mind and need to update my feedback." - Kate 
+- "It's nice to be able to add, edit, and delete my feedback before I send it back to my team. Sometime, you may not always get a full picture of a certain project immediately. I may change my mind and need to update my feedback." - Kate
 
 User Story 11
 
-  - As Nick, Senior QA Engineer, I would like to view my feedback history, so I can track those ideas with my feedback. 
+- As Nick, Senior QA Engineer, I would like to view my feedback history, so I can track those ideas with my feedback.
 
-  Acceptance Criteria
+Acceptance Criteria
 
-  - "I want to review and track the ideas with my feedback and check whether people need helps for my feedback or not." - Nick
-
+- "I want to review and track the ideas with my feedback and check whether people need helps for my feedback or not." - Nick
 
 ## R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
 PlaceHolder
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
+
 ![TrelloWeek1](docs/ScreenshotsTrello/Trelloweek1.png)
 
 ![TrelloWeek2](docs/ScreenshotsTrello/Trelloweek2.png)
