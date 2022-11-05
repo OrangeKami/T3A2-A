@@ -104,25 +104,25 @@
   <tr>
     <td>Submit a form to share information</td>
     <td>
-      <h4>Idea submission</h4>
+      <h4><u>Idea submission</u></h4>
       As Yel, Software Engineer, I want to communicate my project ideas to my team, so I need to fill a form and submit it to my team/manager.
     </td>
     <td>“We have to formally fill in an online form if we want to share our project ideas to the team.” – Yel</td>
     <td>
-      <h4>Feedback submission</h4>
+      <h4><u>Feedback submission</u></h4>
       As Kate, Project Manager, I’d like to add, edit, and delete my feedback before I send it to my team, so if I change my mind later, I can always come back to change my feedback.
     </td>
     <td>“It’s nice to be able to add, edit, and delete my feedback before I send it back to my team. Sometimes, you may not always get a full picture of a certain project immediately. I may change my mind and need to update my feedback.” – Kate</td>
   </tr>
   <tr>
-    <td >Create, edit, and delete project information</td>
+    <td>Create, edit, and delete project information</td>
     <td>
-      <h4>Idea creation, modification, and deletion</h4>
+      <h4><u>Idea creation, modification, and deletion</u></h4>
       As Amela, Digital Designer, I want to be able to add, edit, and delete my ideas before I submit them, so I can feel free to make any changes in my project design later on.
     </td>
     <td>“A good innovative idea doesn’t appear in once and need a lot of deliberate thinking. It’s important for me to be able to add, edit, and delete ideas. Just in case, I want to change something later on before I press the submit button.” – Amela</td>
     <td>
-      <h4>Feedback creation, modification, and deletion</h4>
+      <h4><u>Feedback creation, modification, and deletion</u></h4>
       As Lochy, Engineer Lead, I’d like to send my feedback to my team for each of their idea, so they can improve their initial ideas to meet organization expectation.
     </td>
     <td>“After I received new ideas from my team, I want to give feedback to them as soon as possible, they can improve their ideas that fit into our current strategy.” - Lochy</td>
@@ -130,19 +130,19 @@
   <tr>
     <td rowspan=2>View history records/listings/feedback</td>
     <td>
-      <h4>View project idea history</h4>
+      <h4><u>View project idea history</u></h4>
       As Sarah, Digital Designer, I want to be able to view my project history, so I don’t need to remember each project detail that I created.
     </td>
     <td>“I’m a busy person and can’t always remember what I did for my projects after several days later. I’d love to be able to review all the projects that I created before.” – Sarah</td>
     <td>
-      <h4>View feedback history</h4>
+      <h4><u>View feedback history</u></h4>
       As Nick, Senior QA Engineer, I’d like to view my feedback history, so I can track those ideas with my feedback.
     </td>
     <td>“I want to review and track the ideas with my feedback and check whether people need helps for my feedback or not.” – Nick</td>
   </tr>
   <tr>
     <td>
-      <h4>View manager's feedback</h4>
+      <h4><u>View manager's feedback</u></h4>
       As Harsh, Software Engineer, I want to be able to view and respond to my manager’s feedback so I can solve my problems as soon as possible.
     </td>
     <td>“When I check my submitted ideas, I want to see my manager’s feedback. I can quickly fix the problems and move on to the next.” – Harsh</td>
@@ -152,7 +152,7 @@
     <tr>
     <td rowspan=2>Search information</td>
     <td>
-      <h4>Search project ideas</h4>
+      <h4><u>Search project ideas</u></h4>
       As Joyce, Digital Designer, I want to be able to search the projects with feedback only on a list of all the ideas, so I can get some feelings of what managers’ expectations look like for an innovation project.
     </td>
     <td>“It’s convenient for me to be able to search any submitted projects with managers’ feedback because I want to get feels of what managers expected from an innovation project” – Joyce</td>
@@ -161,7 +161,7 @@
   </tr>
     <tr>
     <td>
-      <h4>Search project ideas and view project ideas</h4>
+      <h4><u>Search project ideas and view project ideas</u></h4>
       As Sunil, Software Engineer, I would like to view other people’s ideas, so I won’t create a similar project.
     </td>
     <td>“I don’t want to post my idea if I saw that someone has already created a similar project as mine.” – Sunil</td>
@@ -173,7 +173,7 @@
     <td></td>
     <td></td>
     <td>
-      <h4>ICE score automatic calculation</h4>
+      <h4><u>ICE score automatic calculation</u></h4>
       As Francois, Head of Growth Marketing B2B, I want to have a tool to calculate ICE scores automatically, so I can use these scores for my decision-making process. 
     </td>
     <td>“At the moment, we manually calculate ICE scores to help my process of decision-making on prioritization. It’ll be good to make the calculation automatically.” – Francois</td>
@@ -183,7 +183,7 @@
     <td></td>
     <td></td>
     <td>
-      <h4>ICE score modification</h4>
+      <h4><u>ICE score modification</u></h4>
       As Jessie, Design Lead, I want to be able to change ICE scores of employees’ projects, such as editing categories of impact, confidence, and effort, so I can make a decision on which project should go first.
     </td>
     <td>“As manager, we not only considered ICE scores when we prioritised out projects but also other impacts, such as, senior managers’ strategies, financial budget, and so on. Thus, I’d like to put all criteria into my consideration for my decision-making and be able to change ICE scores and update categories of impact, confidence, and effort. ” – Jessie</td>
@@ -191,7 +191,7 @@
   <tr>
     <td> Sign up, sign in, and edit user's account</td>
     <td>
-      <h4>User registration and profile modification</h4>
+      <h4><u>User registration and profile modification</u></h4>
       As James, Software Engineer, I want to be able to sign up, sign in, and edit my user profile, so I can manage my account.
     </td>
     <td>“After sign up and sign in to an account, I should be able to edit my user profile. This is just a common feature that everyone has to allow users to manage their account.” – James</td>
