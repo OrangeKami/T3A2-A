@@ -44,11 +44,11 @@
 
 - **_Tech stack_**
 
-  MERN full stack app:
+  MERN full-stack app:
 
   - Front-end: React interacts with users, JavaScript, HTML
 
-  - Back-end: Express for web frame work, Node.JS for web server, Mongoose for a connection between MongoDB and the Node.js JavaScript runtime environment
+  - Back-end: Express for web framework, Node.JS for web server, Mongoose for a connection between MongoDB and the Node.js JavaScript runtime environment
 
   - Database: MongoDB processes and stores database
 
@@ -56,7 +56,7 @@
 
   - Deployment: Netlify for front-end, Heroku for back-end
 
-  - Cloud-storage service: AWS S3 Bucket feature to storage our uplodaded images
+  - Cloud-storage service: AWS S3 Bucket feature to store our uploaded images
 
 ## R2 Dataflow Diagram
 
