@@ -157,9 +157,10 @@
     <td> sign up, sign in, edit user's account</td>
     <td>As James, Software Engineer, I want to be able to sign up, sign in, and edit my user profile, so I can manage my account.</td>
     <td>“After sign up and sign in to an account, I should be able to edit my user profile. This is just a common feature that everyone has to allow users to manage their account.” – James</td>
+    <td></td>
+    <td></td>
   </tr>
-  <td></td>
-  <td></td>
+  
 </table>
 
 ## R5 Wireframes for multiple standard screen sizes, created using industry standard software
