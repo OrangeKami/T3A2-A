@@ -22,6 +22,8 @@
 
   - Enable users (both employees and managers) to register the application (authentication)
 
+  - Enable users to edit their user profile
+
   - Allow users to submit their ideas
 
   - Allow users to add, edit, and delete their ideas before submission (authorisation)
