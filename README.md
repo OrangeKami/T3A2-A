@@ -211,6 +211,12 @@
 
 </details><br />
 
+<details><summary> Edit Profile Page</summary>
+
+![landing](docs\Wireframes\Edit_Profile.png)
+
+</details><br />
+
 <details><summary> Sitemap </summary>
 
 ![login](docs/Sitemap/Sitemap.png)
