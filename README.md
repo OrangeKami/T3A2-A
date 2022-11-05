@@ -89,15 +89,15 @@
 <table> 
   <tr>
     <th style="text-align:center">Theme</th>
-    <th colspan=2 style="text-align:center">Employee</th>
-    <th colspan=2 style="text-align:center">Manager</th>
+    <th colspan=2 style="text-align:center">Employees</th>
+    <th colspan=2 style="text-align:center">Managers</th>
   </tr>
   <tr>
     <th></th>
     <th style="text-align:center">Story</th>
-    <th style="text-align:center">Acceptancet Criteria</th>
+    <th style="text-align:center">Acceptance Criteria</th>
     <th style="text-align:center">Story</th>
-    <th style="text-align:center">Acceptancet Criteria</th>
+    <th style="text-align:center">Acceptance Criteria</th>
   </tr>
   <tr>
     <td>Submit a form to share information</td>
@@ -213,7 +213,7 @@
 
 <details><summary> Edit Profile Page</summary>
 
-![landing](docs\Wireframes\Edit_Profile.png)
+![landing](docs/Wireframes/Edit_Profile.png)
 
 </details><br />
 
