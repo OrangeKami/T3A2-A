@@ -14,19 +14,19 @@
 
   - The TSM team constantly gets a lot of requests from other teams globally across Canva to create, update or localise (translate to different languages) landing or existing pages. Every season (3 months period) they have to build a roadmap of all the things that they want to work on which is a complicated process as they always have more work than the team can handle and it’s not always clear what is the most important for Canva. The consequence of this unclear path is that their process of prioritisation of projects can be very chaotic. The team has to figure out how to use their limited time to work on the most important projects that will make a big impact for the company. At the same time, they also have to demonstrate their roadmap to leadership to make sure it’s aligned with the overall strategy of the company.
 
-  - Our project management application will help the TSM team to collect ideas from various people at Canva and add relevant context/additional information to each idea. The application will also automatically calculate the ICE score that is required by the managers for their decision-making process. It allows managers to provide feedback for each idea so people can review their ideas. This application will let users be free from those manual spreadsheets and improve their productivity.
+  - Our project management application will help the TSM team to collect ideas from various people at Canva and add relevant context/additional information to each idea. The application will also automatically calculate the ICE score that is required by the managers for their decision-making process. It allows managers to provide feedback for each idea so people can review their ideas. This application will let users be free from using manual spreadsheets and improve their productivity.
 
 - **_Functionality / features_**
 
   - Our application will have the following functionality / features:
 
-  - Enable users (both employees and managers) to register the application (authentication)
+  - Enable users (both employees and managers) to register for the application 
 
   - Enable users to edit their user profile
 
   - Allow users to submit their ideas
 
-  - Allow users to add, edit, and delete their ideas before submission (authorisation)
+  - Allow users to add, edit, and delete their ideas before submission (once submitted employees can no longer edit/delete their ideas)
 
   - Automate calculate ICE score
 
@@ -120,12 +120,12 @@
       <h4><u>Idea creation, modification, and deletion</u></h4>
       As Amela, Digital Designer, I want to be able to add, edit, and delete my ideas before I submit them, so I can feel free to make any changes in my project design later on.
     </td>
-    <td>“A good innovative idea doesn’t appear in once and need a lot of deliberate thinking. It’s important for me to be able to add, edit, and delete ideas. Just in case, I want to change something later on before I press the submit button.” – Amela</td>
+    <td>“A good innovative idea doesn’t appear at once and needs a lot of deliberate thinking. It’s important for me to be able to add, edit, and delete ideas. Just in case, I want to change something later on before I press the submit button.” – Amela</td>
     <td>
       <h4><u>Feedback creation, modification, and deletion</u></h4>
-      As Lochy, Engineer Lead, I’d like to send my feedback to my team for each of their idea, so they can improve their initial ideas to meet organization expectation.
+      As Lochy, Engineer Lead, I’d like to send my feedback to my team for each of their ideas, so they can improve their initial ideas to meet organization expectations.
     </td>
-    <td>“After I received new ideas from my team, I want to give feedback to them as soon as possible, they can improve their ideas that fit into our current strategy.” - Lochy</td>
+    <td>“After I receive new ideas from my team, I want to give feedback to them as soon as possible, they can improve their ideas that fit into our current strategy.” - Lochy</td>
   </tr>
   <tr>
     <td rowspan=2>View history records/listings/feedback</td>
@@ -133,12 +133,12 @@
       <h4><u>View project idea history</u></h4>
       As Sarah, Digital Designer, I want to be able to view my project history, so I don’t need to remember each project detail that I created.
     </td>
-    <td>“I’m a busy person and can’t always remember what I did for my projects after several days later. I’d love to be able to review all the projects that I created before.” – Sarah</td>
+    <td>“I’m a busy person and can’t always remember what I did for my projects later on. I’d love to be able to review all the projects that I created before.” – Sarah</td>
     <td>
       <h4><u>View feedback history</u></h4>
-      As Nick, Senior QA Engineer, I’d like to view my feedback history, so I can track those ideas with my feedback.
+      As Nick, QA Engineer Lead, I’d like to view my feedback history, so I can track those ideas with my feedback.
     </td>
-    <td>“I want to review and track the ideas with my feedback and check whether people need helps for my feedback or not.” – Nick</td>
+    <td>“I want to review and track the ideas with my feedback and check whether people need further support with my feedback.” – Nick</td>
   </tr>
   <tr>
     <td>
@@ -176,7 +176,7 @@
       <h4><u>ICE score automatic calculation</u></h4>
       As Francois, Head of Growth Marketing B2B, I want to have a tool to calculate ICE scores automatically, so I can use these scores for my decision-making process. 
     </td>
-    <td>“At the moment, we manually calculate ICE scores to help my process of decision-making on prioritization. It’ll be good to make the calculation automatically.” – Francois</td>
+    <td>“At the moment, we manually calculate ICE scores to help my process of decision-making on prioritization. It’ll be good to automate the calculation.” – Francois</td>
   </tr>
   </tr>
     <tr>
@@ -186,7 +186,7 @@
       <h4><u>ICE score modification</u></h4>
       As Jessie, Design Lead, I want to be able to change ICE scores of employees’ projects, such as editing categories of impact, confidence, and effort, so I can make a decision on which project should go first.
     </td>
-    <td>“As manager, we not only considered ICE scores when we prioritised out projects but also other impacts, such as, senior managers’ strategies, financial budget, and so on. Thus, I’d like to put all criteria into my consideration for my decision-making and be able to change ICE scores and update categories of impact, confidence, and effort. ” – Jessie</td>
+    <td>“As managers, we not only considered ICE scores when we prioritised our projects but also other impacts, such as, senior managers’ strategies, financial budget, and so on. Thus, I’d like to put all criteria into consideration for my decision-making and be able to change ICE scores and update categories of impact, confidence, and effort. ” – Jessie</td>
   </tr>
   <tr>
     <td> Sign up, sign in, and edit user's account</td>
@@ -194,7 +194,7 @@
       <h4><u>User registration and profile modification</u></h4>
       As James, Software Engineer, I want to be able to sign up, sign in, and edit my user profile, so I can manage my account.
     </td>
-    <td>“After sign up and sign in to an account, I should be able to edit my user profile. This is just a common feature that everyone has to allow users to manage their account.” – James</td>
+    <td>“After signing up and signing in to an account, I should be able to edit my user profile. This is just a common feature that everyone has to allow users to manage their account.” – James</td>
     <td></td>
     <td></td>
   </tr>
