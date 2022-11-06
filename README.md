@@ -213,7 +213,7 @@ We had two meetings with Francois Bondiguel - Head of Growth Marketing B2B at Ca
 
 </details><br />
 
-<details><summary> Introduction </summary>
+<details><summary> Questions </summary>
 
 ![Question1](docs/UserStory/Question1.png)
 ![Question2](docs/UserStory/Question2.png)
@@ -291,6 +291,15 @@ We had two meetings with Francois Bondiguel - Head of Growth Marketing B2B at Ca
 </details><br />
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
+
+We used Trello to manage our project chose agile project management to develop our application because we need to have faster feedback cycles so we can identify problem earlier, prioritise more important tasks, and meet our client requirements. Agile project management is “an iterative approach to delivering a project, which focuses on continuous releases that incorporate customer feedback. The ability to adjust during each iteration promotes velocity and adaptability” (Radigan, 2022). 
+
+We followed agile principles for implementation: firstly, we divided our project into several incremental steps with regular feedback from the TSM team and two of us. Secondly, we needed to prioritize smaller pieces of the project requirement by their importance. Thirdly, we did collaboration promotion, especially with our client. Fourthly, we adjusted at regular meetings to ensure that we met client's expectation. Finally, planning integration with execution helped us to effectively respond to changing requirements. The interactive process of agile project management unlocks many opportunities for us to adapt to changing environments from newly discovered requirements to a blocked piece of work.
+
+Reference:
+
+Radigan, D. (2022). Agile vs. waterfall project management. Retrieved May 13, 2022, from https://www.atlassian.com/agile/project-management/project-management-intro
+
 
 ![TrelloWeek1](docs/ScreenshotsTrello/Trelloweek1.png)
 ![TrelloWeek2](docs/ScreenshotsTrello/Trelloweek2.png)
