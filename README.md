@@ -201,23 +201,33 @@
   
 </table>
 
+We had two meetings with Francois Bondiguel - Head of Growth Marketing B2B at Canva. He discussed his current project prioritization problems and what he expected from our project management application. We also communicated with him and his team by sending our questions through emails. Here is some screenshots of our communication documents:
+![Introduction1](docs/UserStory/Introduction1.png)
+![Introduction2](docs/UserStory/Introduction2.png)
+![Introduction3](docs/UserStory/Introduction3.png)
+![Introduction4](docs/UserStory/Introduction4.png)
+![Question1](docs/UserStory/Question1.png)
+![Question2](docs/UserStory/Question2.png)
+![Question3](docs/UserStory/Question3.png)
+![Question4](docs/UserStory/Question4.png)
+
 ## R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
 <details><summary> Login and Signup Page</summary>
 
-![login](docs/Wireframes/Login_and_Signup_Pages.png)
+![Login](docs/Wireframes/Login_and_Signup_Pages.png)
 
 </details><br />
 
 <details><summary> Landing Page</summary>
 
-![landing](docs/Wireframes/Landing_Page.png)
+![Landing](docs/Wireframes/Landing_Page.png)
 
 </details><br />
 
 <details><summary> Listing Page</summary>
 
-![listings](docs/Wireframes/Listing_Page.png)
+![Listings](docs/Wireframes/Listing_Page.png)
 
 </details><br />
 
@@ -241,7 +251,7 @@
 
 <details><summary> Search Result Page</summary>
 
-![Serch](docs/Wireframes/Search_results.png)
+![Search](docs/Wireframes/Search_results.png)
 
 </details><br />
 
@@ -253,27 +263,27 @@
 
 <details><summary> Edit Ticket Page</summary>
 
-![landing](docs/Wireframes/Edit_Tickets.png)
+![Edit Ticket](docs/Wireframes/Edit_Tickets.png)
 
 </details><br />
 
 <details><summary> Edit Profile Page</summary>
 
-![landing](docs/Wireframes/Edit_Profile.png)
+![Edit Profile](docs/Wireframes/Edit_Profile.png)
 
 </details><br />
 
 <details><summary> Sitemap </summary>
 
-![login](docs/Sitemap/Sitemap.png)
+![Sitemap](docs/Sitemap/Sitemap.png)
 
 </details><br />
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
 
 ![TrelloWeek1](docs/ScreenshotsTrello/Trelloweek1.png)
-
 ![TrelloWeek2](docs/ScreenshotsTrello/Trelloweek2.png)
+![TrelloFinal](docs/ScreenshotsTrello/TrelloFinal.png)
 
 Our Trello website
 
