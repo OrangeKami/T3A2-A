@@ -202,7 +202,7 @@
 </table>
 
 ### Evidence of user story revision and refinement
-We had two meetings with Francois Bondiguel - Head of Growth Marketing B2B at Canva. He discussed his current project prioritization problems and what he expected from our project management application. We also communicated with him and his team by sending our questions through emails. Here are some screenshots of our communication documents:
+We had two meetings with Francois Bondiguel - Head of Growth Marketing B2B at Canva. He discussed his current project prioritization problems and what he expected from our project management application. We also communicated with him and his team by sending our questions through emails as well as collaborated on a joint document for further refinement. Here are some screenshots of our communication documents:
 
 
 <details><summary> Introduction </summary>
@@ -293,9 +293,9 @@ We had two meetings with Francois Bondiguel - Head of Growth Marketing B2B at Ca
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
 
-We used Trello to manage our project chose agile project management to develop our application because we need to have faster feedback cycles so we can identify problem earlier, prioritise more important tasks, and meet our client requirements. Agile project management is “an iterative approach to delivering a project, which focuses on continuous releases that incorporate customer feedback. The ability to adjust during each iteration promotes velocity and adaptability” (Radigan, 2022). 
+We used Trello to manage our project and chose to adopt an agile project management methodology to develop our application because we needed to have faster feedback cycles so we can identify problem earlier, prioritise more important tasks, and meet our client requirements. Agile project management is “an iterative approach to delivering a project, which focuses on continuous releases that incorporate customer feedback. The ability to adjust during each iteration promotes velocity and adaptability” (Radigan, 2022). 
 
-We followed agile principles for implementation: firstly, we divided our project into several incremental steps with regular feedback from the TSM team and two of us. Secondly, we needed to prioritize smaller pieces of the project requirement by their importance. Thirdly, we did collaboration promotion, especially with our client. Fourthly, we adjusted at regular meetings to ensure that we met client's expectation. Finally, planning integration with execution helped us to effectively respond to changing requirements. The interactive process of agile project management unlocks many opportunities for us to adapt to changing environments from newly discovered requirements to a blocked piece of work.
+We followed agile principles for implementation: firstly, we divided our project into several incremental steps with regular feedback from the TSM team and the two of us. Secondly, we needed to prioritize smaller pieces of the project requirement by their importance. Thirdly, we promoted collaboration and organised regular meetings to ensure our latest developements meet our client's expectations. Finally, planning integration with execution helped us to effectively respond to changing requirements as we finalised our app.  
 
 Reference:
 
