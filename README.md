@@ -202,14 +202,25 @@
 </table>
 
 We had two meetings with Francois Bondiguel - Head of Growth Marketing B2B at Canva. He discussed his current project prioritization problems and what he expected from our project management application. We also communicated with him and his team by sending our questions through emails. Here is some screenshots of our communication documents:
+
+
+<details><summary> Introduction </summary>
+
 ![Introduction1](docs/UserStory/Introduction1.png)
 ![Introduction2](docs/UserStory/Introduction2.png)
 ![Introduction3](docs/UserStory/Introduction3.png)
 ![Introduction4](docs/UserStory/Introduction4.png)
+
+</details><br />
+
+<details><summary> Introduction </summary>
+
 ![Question1](docs/UserStory/Question1.png)
 ![Question2](docs/UserStory/Question2.png)
 ![Question3](docs/UserStory/Question3.png)
 ![Question4](docs/UserStory/Question4.png)
+
+</details><br />
 
 ## R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
